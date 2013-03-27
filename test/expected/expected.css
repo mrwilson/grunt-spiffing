@@ -1,0 +1,12 @@
+body {
+	background: darkgray;
+	opacity: .7;
+	font: 72px "Comic Sans", cursive !important;
+}
+
+h2 {
+	text-align: center;
+	font: bold;
+	background-image: url('foo.png');
+	text-transform: capitalize;
+}
